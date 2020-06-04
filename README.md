@@ -17,7 +17,8 @@ c=nreads*lreads/lgen
 where **nreads** - n of mapped to ref reads, 
       **lreads** - length of short reads(hard-coded in beta to 151 in script),
       **lgene** - length of reference sequence, e.g.genome
-To calculate **mean coverage for long reads** the following formula is used:
+      
+- To calculate **mean coverage for long reads** the following formula is used:
 ```
 c=sum of lengths of all mapped reads/length of reference sequence
 ```
