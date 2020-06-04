@@ -1,6 +1,6 @@
 # PBC_plot
 
-**Beta submission! Includes py3 script for per base coverage plot generation. Will be shortly followed by nextflow pipeline for mapping reads to reference, processing and obtaining the input files for the .py plotting script.
+**Beta submission! Includes py3 script for per base coverage plot generation. Will be shortly followed by nextflow pipeline for mapping reads to reference, processing and obtaining the input files for the .py plotting script.**
 
 Per base coverage statistics pipeline to assess the expected versus factual coverage of the reference sequence region by the newly sequenced reads (arrival-like statistics). Plots the per base coverage, helping visualize the possible sequencing\mapping pitfalls and repetative region collapses.
 
